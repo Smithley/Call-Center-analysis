@@ -8,4 +8,7 @@ A Microsoft Excel project on Sales from a call center data
 - Deal Value By Month
 - Call Reached By Month
 
-![Sales Raw Data](https://github.com/Smithley/Call-Center-analysis/blob/main/Call%20Center%20Data.JPG)
+![Sales-Raw-Data](https://github.com/Smithley/Call-Center-analysis/blob/main/Call%20Center%20Data.JPG)
+
+# Porject Dashboard
+![]()
